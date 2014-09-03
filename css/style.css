@@ -1,3 +1,5 @@
+@import url(http://fonts.googleapis.com/earlyaccess/lohitdevanagari.css);
+
 @font-face{
     font-family: 'sacramento.regular';
 	font-weight: 100;
@@ -16,6 +18,9 @@ nav {
 
 }
 
+.hindi{
+  font-family: 'Lohit Devanagari';
+}
 
 nav a {
 	color: rgb(66,71,75);
